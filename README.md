@@ -13,3 +13,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 ```Latex
    simple interest = p*t*r
 ```
+## License
+[Apache] 
