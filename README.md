@@ -4,11 +4,10 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Input:
 ```Latex
-begin{itemize}
-   \item p, principal amount
-   \item t, time period in years
-   \item r, annual rate of interest
-   end{itemize}
+   . p, principal amount
+   . t, time period in years
+   . r, annual rate of interest
+   
    ```
 ## Output
 ```Latex
